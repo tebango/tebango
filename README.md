@@ -12,7 +12,7 @@ Kenangan dan arsip foto 2035
     gap: 15px;
     margin: 20px 0;
   ">
-    <img src="https://github.com/tebango/Foto_tebango/blob/main/IMG-20250614-WA0013.jpg">
+    <img src="https://github.com/tebango/Foto_tebango/blob/main/IMG-20250614-WA0013.jpg" alt="foto 0" style="width:100%; border-radius:8px; box-shadow:0 2px 5px rgba(0,0,0,0,0.1)">
     <img src="https://github.com/tebango/Foto_tebango/raw/main/IMG-20250705-WA0049.jpg" alt="Foto 1" style="width:100%; border-radius:8px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
     <img src="https://github.com/tebango/Foto_tebango/raw/main/IMG-20250708-WA0002.jpg" alt="Foto 2" style="width:100%; border-radius:8px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
     <img src="https://github.com/tebango/Foto_tebango/raw/main/IMG-20250708-WA0006.jpg" alt="Foto 3" style="width:100%; border-radius:8px; box-shadow:0 2px 5px rgba(0,0,0,0.1)">
